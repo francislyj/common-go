@@ -1,4 +1,4 @@
-module common-go
+module github.com/francislyj/common-go
 
 go 1.18
 

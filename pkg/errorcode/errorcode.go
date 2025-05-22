@@ -12,6 +12,7 @@ const (
 	// 业务自定义错误
 	UserNotFound  = 1001
 	PasswordError = 1002
+	ParamError    = 1003
 )
 
 var Msg = map[int]string{

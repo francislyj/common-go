@@ -1,7 +1,7 @@
 package response
 
 import (
-	"common-go/pkg/errorcode"
+	"github.com/francislyj/common-go/pkg/errorcode"
 
 	"github.com/gin-gonic/gin"
 )
